@@ -68,3 +68,6 @@ build/
 ## OS Specific
 .DS_Store
 Thumbs.db
+
+## add lib to repository
+!core/libs/*
